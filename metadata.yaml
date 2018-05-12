@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/250
     wikipedia: http://en.wikipedia.org/wiki/Antoine_Fran%C3%A7ois_Pr%C3%A9vost
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17983#Manon-Lescaut
 gutenberg_bookshelf:
 - Opera
 - FR Littérature
